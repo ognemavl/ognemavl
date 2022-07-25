@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ognen</h1>
 <h3 align="center">I am a 14yo Frontend Developer</h3>
 
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 <p align="left"> <a href="https://twitter.com/@enveljanovski" target="blank"><img src="https://img.shields.io/twitter/follow/@enveljanovski?logo=twitter&style=for-the-badge" alt="@enveljanovski" /></a> </p>
 
 - 🔭 I’m currently working on **a special music app (TBA)**
