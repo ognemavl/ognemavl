@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ognen</h1>
 <h3 align="center">I am a 14yo Frontend Developer</h3>
 
-<img align="right"alt="Coding"width="400"src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478ca4irrr2lwasau9m4uwcpbqncqxopkl4scurcax&rid=giphy.gif&ct=g">
+<img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ognemavl" alt="ognemavl" /></a> </p>
 
